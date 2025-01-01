@@ -1,7 +1,7 @@
 # Hi!👋 I'm Geetanjali Barman delving into FullStack Development & intriguied to explore Tech World
 🔭I'm currently pursuing B.tech <br>👯I’m looking to collaborate on IOT and Web Dev based projects<br>
 
-## 🌐 Socials: 
+## 🌐 Socials:
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geetanjalibarman) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Geetanjali_1995) 
