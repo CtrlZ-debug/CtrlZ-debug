@@ -1,5 +1,5 @@
-# Hi!👋 I'm Geetanjali Barman delving into FullStack Development & intriguied to explore Tech World
-🔭I'm currently pursuing B.tech <br>👯I’m looking to collaborate on IOT and Web Dev based projects<br>
+# Hi!👋 I'm Geetanjali Barman 
+🔭I'm currently working in Capgemini<br>Experienced Network Engineer with expertise in hardware and software implementation, troubleshooting, system analysis, and client support.<br>Transitioning into Software Development with hands-on experience in coding, debugging, and application development.
 
 ## 🌐 Socials:
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
